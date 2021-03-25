@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 - 🌐 Check out my personal [website](https://emoore.dev) to view some of my work
 - 🔨 I am currently working as a front-end web developer at Employment and Social Development Canada within the IT Accessibility Strategy team.
 
+## ⚙️ Technologies I Use:
+- HTML5 & CSS3/SCSS/LESS
+- Bootstrap & Bulma
+- JavaScript & ReactJS
+- NodeJS
+- PHP
+- Handlebars  
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 my email: ericmoore1999@outlook.com
 
