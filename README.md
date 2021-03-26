@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 4th year student at Carleton University studying Information Technology with a specialization in Software and Multimedia Development
-- 🌐 Check out my personal [website](https://emoore.dev) to view some of my work
+- 🌐 Check out my personal <a href="https://emoore.dev" target="_blank">website</a> to view some of my work
 - 🔨 I am currently working as a front-end web developer at Employment and Social Development Canada within the IT Accessibility Strategy team.
 
 ## ⚙️ Recent Technologies I've Use:
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Finish up my **ReactJS** movie-time application and release it to the public
-	- Contribute code to the open source [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) as it is my daily driver at ESDC
+	- Contribute code to the open source <a href="https://wet-boew.github.io/wet-boew/index-en.html">Web Experience Toolkit</a> as it is my daily driver at ESDC
 	- Graduate with my Bachelor of IT within the month!
 
 ## ⚡ Fun fact:
