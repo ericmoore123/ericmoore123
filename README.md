@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 4th year student at Carleton University studying Information Technology with a specialization in Software and Multimedia Development
 - 🌐 Check out my personal <a href="https://emoore.dev" target="_blank">website</a> to view some of my work
-- 🔨 I am currently working as a front-end web developer at Employment and Social Development Canada within the IT Accessibility Strategy team.
+- 🔨 I am currently working as a web developer at Employment and Social Development Canada within the IT Accessibility Strategy team.
 
 ## ⚙️ Recent Technologies I've Use:
 - HTML5 & CSS3/SCSS/LESS
