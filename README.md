@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" width="60%" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+    
     
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
@@ -21,10 +23,8 @@ Here are some ideas to get you started:
 ## ⚙️ Recent Technologies I've Use:
 - HTML5 & CSS3/SCSS/LESS
 - Bootstrap & Bulma
-- JavaScript & ReactJS
-- NodeJS
-- PHP
-- Handlebars  
+- JavaScript, ReactJS & NodeJS
+- PHP & Handlebars/Jinja  
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 my email: ericmoore1999@outlook.com
@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 
 ## ⚡ Fun fact:
 - I am currently working on a web project geared towards helping people recently diagnosed with type 1 diabetes better navigate the early struggles with blood sugar management, insulin levels, and much more! 
+
+![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericmoore123&show_icons=true&hide_border=true)
+
