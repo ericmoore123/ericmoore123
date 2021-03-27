@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 my email: ericmoore1999@outlook.com
 
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- Finish up my **ReactJS** movie-time application and release it to the public
-	- Contribute code to the open source <a href="https://wet-boew.github.io/wet-boew/index-en.html">Web Experience Toolkit</a> as it is my daily driver at ESDC
-	- Graduate with my Bachelor of IT within the month!
+## 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- Finish up my **ReactJS** movie-time application and release it to the public
+- Contribute code to the open source <a href="https://wet-boew.github.io/wet-boew/index-en.html">Web Experience Toolkit</a> as it is my daily driver at ESDC
+- Graduate with my Bachelor of IT within the month!
 
 ## ⚡ Fun fact:
 - I am currently working on a web project geared towards helping people recently diagnosed with type 1 diabetes better navigate the early struggles with blood sugar management, insulin levels, and much more! 
