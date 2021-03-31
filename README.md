@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## ⚙️ Recent Technologies I've Use:
 - HTML5 & CSS3/SCSS/LESS
-- Bootstrap & Bulma
+- Bootstrap & Bulma & WET
 - JavaScript, ReactJS & NodeJS
 - PHP & Handlebars/Jinja  
 
