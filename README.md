@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 ## ⚡ Fun fact:
 - I am currently working on a web project geared towards helping people recently diagnosed with type 1 diabetes better navigate the early struggles with blood sugar management, insulin levels, and much more! 
 
-![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericmoore123&show_icons=true&hide_border=true)
+![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericmoore123&show_icons=true&hide_border=false)
 
