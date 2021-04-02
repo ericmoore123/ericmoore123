@@ -1,16 +1,3 @@
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
 <img align="right" width="60%" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
     
     
@@ -22,9 +9,9 @@ Here are some ideas to get you started:
 
 ## ⚙️ Recent Technologies I've Use:
 - HTML5 & CSS3/SCSS/LESS
-- Bootstrap & Bulma & WET
-- JavaScript, ReactJS & NodeJS
-- PHP & Handlebars/Jinja  
+- WET, Bootstrap & Bulma
+- JavaScript, ReactJS & Node/ExpressJS
+- PHP & Handlebars
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 - 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 my email: ericmoore1999@outlook.com
