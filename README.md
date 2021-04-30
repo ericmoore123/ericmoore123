@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">Web Developer for the Canadian Government by day</h3>
+<h3 align="center">Web Developer for the Canadian Government</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericmoore123" alt="ericmoore123" /></a> </p>
 
