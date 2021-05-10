@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericmoore123&theme=onedark" alt="ericmoore123" /></a> </p>
 
-- 👨‍💻 Check out my personal website to view some of my work at: [https://emoore.dev](emoore.dev)
+- 👨‍💻 Check out my personal website to view some of my work at: [emoore.dev](https://emoore.dev)
 
 - 💬 Ask me about **web accessibility, web frameworks** or **open source contributions**
 
