@@ -5,7 +5,7 @@
 
 - 👨‍💻 Check out my personal website to view some of my work at: [emoore.dev](https://emoore.dev)
 
-- 💬 Ask me about stuff like **new technologies, web frameworks** and **open source contributions** 
+- 💬 Ask me about **new technologies, web frameworks** and **open source contributions** 
 
 - 📫 Email me at: **ericmoore1999@outlook.com**
 
