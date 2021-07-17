@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">Web Developer for the Canadian Government</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericmoore123" alt="ericmoore123" /></a></p>
+<p align="center" width="110%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericmoore123" alt="ericmoore123" /></a></p>
 
 - 👨‍💻 Check out my personal website to view some of my work at: [emoore.dev](https://emoore.dev)
 
 - 💬 Ask me about **new technologies, web frameworks** and **open source contributions** 
+
 
 - 📫 Email me at: **ericmoore1999@outlook.com**
 
