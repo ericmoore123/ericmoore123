@@ -14,6 +14,8 @@
 
 - 📫 Email me at: **ericmoore1999@outlook.com**
 
+- I am currently working on Blockchain development projects using Web3, Solidity and Microsoft Azure
+
 <h3 align="left">Connect with me on 
 <a href="https://www.linkedin.com/in/ericdanielmoore/" target="blank">LinkedIn</a>
 </h3>
