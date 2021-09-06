@@ -5,11 +5,12 @@
 
 <p align="center" width="110%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericmoore123" alt="ericmoore123" /></a></p>
 
+<div align='center' width='100%'>
+   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ericmoore123&" alt="ericmoore123" />
+</div>
 
-- 👨‍💻 Check out my personal website to view some of my work at: [emoore.dev](https://emoore.dev)
 
 - 💬 Ask me about **new technologies, web frameworks** and **open source contributions** 
-
 
 - 📫 Email me at: **ericmoore1999@outlook.com**
 
@@ -28,6 +29,3 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
 </p>
-
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericmoore123&show_icons=true&locale=en&layout=compact" alt="ericmoore123" />
-<img width="40%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ericmoore123&" alt="ericmoore123" />
