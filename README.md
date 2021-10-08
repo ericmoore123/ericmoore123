@@ -14,7 +14,7 @@
 
 - 📫 Email me at: **ericmoore1999@outlook.com**
 
-- I am currently working most with Blockchain, Web3 and ReactJS.
+- I am currently working most with JS, React and focusing on learning TypeScript
 
 <h3 align="left">Connect with me on 
 <a href="https://www.linkedin.com/in/ericdanielmoore/" target="blank">LinkedIn</a>
