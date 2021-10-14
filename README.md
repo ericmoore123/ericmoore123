@@ -2,9 +2,6 @@
 
 <h3 align="center">Web Developer for the Canadian Government</h3>
 
-
-<p align="center" width="110%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericmoore123" alt="ericmoore123" /></a></p>
-
 <div align='center' width='100%'>
    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ericmoore123&" alt="ericmoore123" />
 </div>
