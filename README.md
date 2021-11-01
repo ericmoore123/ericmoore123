@@ -11,7 +11,7 @@
 
 - 📫 Email me at: **ericmoore1999@outlook.com**
 
-- My daily driver of choice is JavaScript with a current fascination with Web3, React and web accessibility
+- My daily driver of choice is JavaScript with a current focus on Web3, React and web accessibility
 
 <h3 align="left">Connect with me on 
 <a href="https://www.linkedin.com/in/ericdanielmoore/" target="blank">LinkedIn</a>
