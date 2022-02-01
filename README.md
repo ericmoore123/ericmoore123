@@ -9,13 +9,9 @@
 
 - 💬 Ask me about **new technologies, web frameworks** and **open source contributions** 
 
-- 📫 Email me at: **ericmoore1999@outlook.com**
+- 📫 Email me at: **eric.d.moore@outlook.com**
 
-- My daily driver of choice is JavaScript with a current focus on Web3, React and web accessibility
-
-<h3 align="left">Connect with me on 
-<a href="https://www.linkedin.com/in/ericdanielmoore/" target="blank">LinkedIn</a>
-</h3>
+- My daily driver of choice is JavaScript with a current focus on React and various web CMSs'
 
 <h3 align="left">Languages and tools I use: </h3>
 <p> 
