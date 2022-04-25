@@ -11,7 +11,7 @@
 
 - 📫 Email me at: **eric.d.moore@outlook.com**
 
-- My daily driver of choice is JavaScript with a current focus on React and various web CMSs'
+- My daily driver of choice is JavaScript with a current focus on React and various web CMSs
 
 <h3 align="left">Languages and tools I use: </h3>
 <p> 
