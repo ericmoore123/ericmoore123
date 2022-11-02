@@ -3,6 +3,6 @@
 <h3 align="center">Dev @ Canadian Government</h3>
 
 <div align='center' width='100%'>
-  <img width="40px" src="https://pic.onlinewebfonts.com/svg/img_432930.png" />
+  <img width="120px" src="https://www.international.gc.ca/world-monde/assets/images/funding-financement/canada-aid-aide/canada-wordmark-colour.png" />
 </div>
 
