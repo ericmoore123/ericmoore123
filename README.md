@@ -4,8 +4,8 @@
 
 <div align='center' width='100%'>
   <img width="120px" src="https://www.international.gc.ca/world-monde/assets/images/funding-financement/canada-aid-aide/canada-wordmark-colour.png" />
-  <h3>[Personal Site](https://emoore.live)</h3>
 </div>
+<h3 align="center"><a href="https://emoore.live" alt="Personal site link">Personal site</a></h3>
 
 
 
