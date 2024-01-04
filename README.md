@@ -7,6 +7,4 @@
 </div>
 <h3 align="center"><a href="https://emoore.live" alt="Personal site link">Personal site</a></h3>
 
-<p align="center"><strong>Doing renos on my home so not much activity at the moment.</strong></p>
-
 
